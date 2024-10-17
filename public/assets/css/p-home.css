@@ -1,0 +1,28 @@
+.content {
+    padding: 20px;
+}
+
+.content a .card {
+    background-color: #b0e0e6;
+    border: none;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    height: 170px;
+}
+
+.content a .card i {
+    font-size: 50px;
+    color: black;
+}
+
+.content a .card p {
+    margin-top: 10px;
+    font-size: 18px;
+    color: black;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
